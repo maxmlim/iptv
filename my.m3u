@@ -7,6 +7,10 @@ http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png" tvg-url="" group-title="",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-0,astro SuperSport 1 & 3 
+http://stream.ssh101.com/hls/23456.m3u8
+#EXTINF:-0,astro SuperSport 2 
+http://stream.ssh101.com/hls/103654.m3u8 
 #EXTINF:-1,ASTRO SUPERSPORTS 1
 http://185.39.8.88:8088/live/xi4fO6Tqhr/I1ZplJeMC6/40598.mp2t?token=QhVcUhcJRggXUVYEBAcAAFcHBwdTUAVQVVwGBQUHA1BaBwxQV1NWUAxGGURBEkJRAFtpWgVEXlFdUg1QSkAXElxFa1oAQ14QA1cCVgFSEhhDQl9eBEReUlNUBlFVUVFQARsWQw0FRghbEVkKHkRVTBVTRF0ACjsHABJcAgNAWA9MW1gfRg4KbVEBWAdcAhIOQwcUH0MPFxNHXlsUCg5OQ1teQEEFFQEQDwpACl5KElcOQ1hHEx9GWUcpbENKQAcZTVJaQA0OChAPRkEVEEoSXRJpRFYSEhYGBAlQE0RYQFEbGxZeBRk7UVoKWwNREllbD0UUCUNXRk9HCVoPDxYNE2ZHXVdGWwpHWQhI
 #EXTINF:-1,ASTRO SUPERSPORTS 2
