@@ -1,4 +1,12 @@
 #EXTM3U
+#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/ab16f908be35a1bbc227d.jpg",Astro Supersport 1 CH811
+http://50.7.161.82:8278/streams/d/Assp1/playlist.m3u8
+#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/a617ac1c52b5959136d28.jpg",Astro Supersport 2 CH812
+http://50.7.161.82:8278/streams/d/Assp2/playlist.m3u8
+#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/5123e7203c575626493fa.jpg",Astro Supersport 3 CH813
+http://50.7.161.82:8278/streams/d/Assp3/playlist.m3u8
+#EXTINF:-1, group-title="SPORTS" tvg-logo="https://telegra.ph/file/ff4f91a3e520cc14db11a.jpg",Astro Supersport 4 CH814
+http://50.7.161.82:8278/streams/d/Assp4/playlist.m3u8
 #EXTINF:-1 tvg-id="8TV.my" tvg-name="8TV" tvg-country="MY" tvg-language="" tvg-logo="https://www.xtra.com.my/wp-content/themes/xtra_revamp/assets/img/tv8.png" tvg-url="" group-title="",8TV
 http://50.7.161.82:8278/streams/d/TV8/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroAOD311.my" tvg-name="Astro AOD 311" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Astro_AOD.jpeg/200px-Astro_AOD.jpeg" tvg-url="" group-title="",Astro AOD 311
