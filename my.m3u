@@ -7,6 +7,12 @@ http://185.180.221.194:8278/streams/d/AodHD/playlist.m3u8
 http://50.7.161.82:8278/streams/d/Quanjia/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroShuangXing.my" tvg-name="Astro Shuang Xing" tvg-country="MY" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/76/Astro%E9%9B%99%E6%98%9F.png/200px-Astro%E9%9B%99%E6%98%9F.png" tvg-url="" group-title="",Astro Shuang Xing
 http://50.7.161.82:8278/streams/d/Shuangxing/playlist.m3u8
+#EXTINF:-1 ,ASTRO SUPERSPORT HD
+http://iptv.tvmalaysia.cc:80/live/penang189/penang189/6708.m3u8
+#EXTINF:-1 ,ASTRO SUPERSPORT 3 HD
+http://iptv.tvmalaysia.cc:80/live/penang189/penang189/6711.m3u8
+#EXTINF:-1 ,ASTRO SUPERSPORT 4 HD
+http://iptv.tvmalaysia.cc:80/live/penang189/penang189/6712.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport.my" tvg-name="Astro SuperSport" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/831_300.png" tvg-url="" group-title="",Astro SuperSport
 http://185.180.221.194:8278/streams/d/Assp1/playlist.m3u8
 #EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="Astro SuperSport 2" tvg-country="MY" tvg-language="" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Neg/832_300.png" tvg-url="" group-title="",Astro SuperSport 2
